@@ -16,7 +16,7 @@ Python 3.x
 
 #Running the Program
 1. Clone the repository:
-git clone https://github.com/your-username/food-truck-order-system.git
+git clone [https://github.com/your-username/food-truck-order-system.git](https://github.com/joetimmons/python-challenge-1.git)
 
 2. Navigate to the project directory:
 cd food-truck-order-system
