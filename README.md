@@ -15,14 +15,10 @@ Getting Started
 Python 3.x
 
 #Running the Program
-1. Clone the repository:
-git clone https://github.com/your-username/food-truck-order-system.git
+1. Clone the repository
+2. Navigate to the project directory
+3. Run the program
 
-2. Navigate to the project directory:
-cd food-truck-order-system
-
-3. Run the program:
-python food_truck_order_system.py
 
 4. Follow the on-screen prompts to place your food order.
 
