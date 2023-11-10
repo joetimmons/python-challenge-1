@@ -1,27 +1,27 @@
 # python-challenge-1
 
-****Food Truck Order System
+Food Truck Order System
 
-****Overview
+Overview
 The Food Truck Order System is a simple Python program that allows customers to interactively place food orders from a menu. The system provides a user-friendly interface for selecting items, specifying quantities, and generating order receipts.
 
-**Features
+Features
 **Interactive Menu: Customers can choose from a variety of items categorized into snacks, meals, drinks, and desserts.
 
-****Order Processing: The system processes customer orders, calculating the total cost based on selected items and quantities.
+Order Processing: The system processes customer orders, calculating the total cost based on selected items and quantities.
 
-****Receipt Generation: Order receipts are formatted and displayed, providing a summary of the customer's selections and the total cost.
+Receipt Generation: Order receipts are formatted and displayed, providing a summary of the customer's selections and the total cost.
 
-****Prerequisites
+Prerequisites
 Python 3.x
 
-****Running the Program
+Running the Program
 1. Clone the repository
 2. Navigate to the project directory
 3. Run the program
 4. Follow the on-screen prompts to place your food order.
 
-****Usage
+Usage
 1. Choose a menu category by entering the corresponding number.
 2. Select a specific item from the displayed options.
 3. Specify the quantity of the selected item.
